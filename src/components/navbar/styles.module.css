@@ -1,0 +1,62 @@
+.nav{
+    max-width: 100%;
+    height: 4rem;
+}
+
+.navContainer{
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+}
+
+.navTitle{
+    font-size: clamp(1rem, 5vw, 1.5rem);
+    color: var(--dark-blue);
+    font-weight: 700;
+    transition: color .5s ease-in-out;
+    font-family: "Bricolage Grotesque", sans-serif;
+}
+
+.navTitle:hover{
+    color: var(--light-blue);
+}
+
+.navButtons{
+    display: flex;
+    column-gap: 1.5rem;
+}
+
+.navButton{
+    border: none;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    row-gap: .2rem;
+    justify-content: center;
+    transition: color .3s ease-in-out;
+    border-bottom: 2px solid transparent;
+}
+
+.navButton:hover{
+    color: var(--light-blue);
+}
+
+.navButton:hover > span{
+    height: 2px;
+    animation: buttonOnHover .8s ease-in-out;
+    color: var(--light-blue);
+}
+
+/* animate border when navbutton is on hover */
+
+@keyframes buttonOnHover{
+    0%{
+        width: 0;
+        background-color: transparent;
+    }
+    100%{
+        width: 100%;
+        background-color: var(--color-primary);
+    }
+}
