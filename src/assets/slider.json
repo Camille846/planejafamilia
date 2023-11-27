@@ -1,0 +1,63 @@
+[
+    {
+        "title": "Preservativos masculinos",
+        "description": "Método contraceptivo de barreira feito de látex, e age como um envoltório que deve ser usado diretamente no pênis, impedindo o contato entre órgãos sexuais durante o ato sexual. É muito eficaz contra ISTs e previne a gravidez indesejada.",
+        "usoPerfeito": "98%",
+        "usoTipico": "82%"
+    },
+    {
+        "title": "Preservativos femininos",
+        "description": "Possui mesmas caraterísticas do preservativo masculino, é um método contraceptivo que se assemelha a uma bolsa e é usado dentro da vagina. É importante na proteção contra ISTs e no controle da vida reprodutiva.",
+        "usoPerfeito": "95%",
+        "usoTipico": "79%"
+    },
+    {
+        "title": "Anel vaginal",
+        "description": "Método contraceptivo de silicone que tem formato de anel, ele é colocado na vagina e atua impedindo a ovulação, através da liberação de hormônios. Esse método não previne contra doenças, seu objetivo é evitar a gravidez.",
+        "usoPerfeito": "99%",
+        "usoTipico": "91%"
+    },
+    {
+        "title": "Implante contraceptivo",
+        "description": "Método contraceptivo caracterizado por ser um bastonete de silicone, cujo é inserido no braço da mulher, e vai liberando hormônios gradativamente. Não protege contra infecções sexualmente transmissíveis.",
+        "usoPerfeito": "99%",
+        "usoTipico": "1 gravidez a cada 100 mulheres"
+    },
+    {
+        "title": "Contraceptivo hormonal injetável",
+        "description": "Método contraceptivo injetável que pode ser aplicada mensal ou trimensal, esse método é uma combinação de hormônios (progesterona e estrogênios) . A injeção não previne contra ISTs.",
+        "usoPerfeito": "99%",
+        "usoTipico": "94%"
+    },
+    {
+        "title": "Adesivos cutâneos com hormônios",
+        "description": "O adesivo possui a combinação de dois hormonios que são liberados na corrente sanguínea impedindo a ovulação. Esse método é eficaz na prevenção na gravidez, mas não previne ISTs.",
+        "usoPerfeito": "99%",
+        "usoTipico": "91%"
+    },
+    {
+        "title": "Dispositivo Intrauterino (DIU)",
+        "description": "Pequeno objeto de plástico, que é colocado no interior do útero liberando hormônios como levonorgestrel (DIU hormonal) ou liberando íons de prata e/ou cobre (DIU não hormonal), fazendo com que os espermatozóides não sobrevivam. ",
+        "usoPerfeito": "99,2% - 99,4%",
+        "usoTipico": "99,8%"
+    },
+    {
+        "title": "",
+        "description": "",
+        "usoPerfeito": "99%",
+        "usoTipico": "91%"
+    },
+    {
+        "title": "Diafragma",
+        "description": "Impede a entrada dos espermatozoides no útero, esse anel deve ser colocado dentro da vagina cerca de meia hora antes da relação sexual, e retirá-lo 12 horas após o ato. Não previne contra ISTs.",
+        "usoPerfeito": "92% - 96%",
+        "usoTipico": "71% - 88%"
+    },
+    {
+        "title": "Espermicidas",
+        "description": "Produto que lisa a membrana da célula dos espermatozoides, o que dificulta o movimento e impedindo a chegada do espermatozoide ao óvulo. Pouco recomendado. Não previne contra ISTs.",
+        "usoPerfeito": "82%",
+        "usoTipico": "72%"
+    }
+
+]
