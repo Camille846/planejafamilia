@@ -1,3 +1,7 @@
+
+>  status: ⚠️ em desenvolvimento
+
+
 # Planeja Família
 
 Projeto criado para o desenvolvimento de plataforma informativa sobre planejamento reprodutivo, um direito conquistado. 
