@@ -21,31 +21,24 @@ const Header = () => {
         <section className={headerWrapper}>
           <div className={headerContainer}>
             <div className={headerImages}>
-              
-              <div className={headerImageBorder}>	
                 <div className={headerImage}>
                   <img src=
                   "../headerImage.jpg"
                     alt="header Image"
                   />
                 </div>
-              </div>
-              <div className={headerImageBorder}>	
                 <div className={headerImage}>
                   <img src=
                   "../headerImage2.jpg"
                     alt="header Image"
                   />
                 </div>
-              </div>
-              <div className={headerImageBorder}>	
                 <div className={headerImage}>
                   <img src=
                   "../headerImage3.jpg"
                     alt="header Image"
                   />
                 </div>
-              </div>
             </div>
             <div className={headerContent}>
               <h1 className={headerTitle}>

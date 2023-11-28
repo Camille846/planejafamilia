@@ -86,7 +86,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    /* border: 4px dashed var(--white); */
+    border: 4px dashed var(--white);
     padding: .3rem;
     border-radius: 50%;
     cursor: pointer;
@@ -99,34 +99,21 @@
     border-radius: 50%;
 }
 
-.headerImageBorder:hover {
+.headerImage:hover {
     border: 4px dashed var(--color-primary); 
-    animation: spinBorder 4s ease-in-out infinite;
+    animation: spinBorder 10s infinite linear;
 }
 
 .headerImage:hover img {
-    animation: spinImage 4s ease-in-out infinite;
+    animation: spinBorder 10s infinite reverse linear;
 }
 
-@keyframes spinBorder{
-    0%{
-        transform: rotate(0deg);
-    }
-    100%{
-
-        transform: rotate(360deg);
-    }
+img {
+    display: inline-block;
 }
 
-
-@keyframes spinImage{
-    0%{
-        transform: rotate(0deg);
-    }
-    100%{
-
-        transform: rotate(-360deg);
-    }
+@keyframes spinBorder {
+    100% { transform: rotate(1turn); }
 }
 
 /* for desktop */
